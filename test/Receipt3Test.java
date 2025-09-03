@@ -11,7 +11,7 @@ import org.junit.jupiter.api.TestMethodOrder;
 import java.io.*;
 
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-public class Receipt2Test {
+public class Receipt3Test {
 
   @Test
   @Order(0)
